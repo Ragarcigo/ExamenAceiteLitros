@@ -70,7 +70,7 @@ public class UF1286E2 {
         System.out.println("Aceite de 1 Litro: " + cantidad + " X " + Aceite1Litro + " = " + cantidad * Aceite1Litro);
         System.out.println("Aceite de 3 Litros: " + cantidad3 + " X " + Aceite3Litro + " = " + cantidad3 * Aceite3Litro);
         System.out.println("Aceite de 5 Litros: " + cantidad5 + " X " + Aceite5Litro + " = " + cantidad5 * Aceite5Litro);
-        System.out.println("TOTAL A PAGAR : " + totalcuenta + "€");
+        System.out.println("TOTAL A PAGAR : " + totalcuenta * 1.04 + "€");
         System.out.println("***GRACIAS POR CONFIAR EN NOSOTROS***");
     }
 }
