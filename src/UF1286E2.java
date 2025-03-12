@@ -14,7 +14,7 @@ import java.util.Scanner;
  * Según lo que haya facturado mostrar los datos suministrados, el total de la factura, y el IVA 4%
  **/
 
-public class Examen {
+public class UF1286E2 {
     public static void main(String[] args) {
 //Declaramos las constantes de los precios para el aceite
         Scanner sc = new Scanner(System.in);
